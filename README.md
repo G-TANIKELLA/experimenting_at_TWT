@@ -11,7 +11,7 @@ It is **natural** to have doubts and worries. We have people who can help you. B
 
 1.  Figure out why you need the genetic test
 1.  Talk to your family
-1.  Talk to a genetic counselor to understand the implications and informed choices.
+1.  Talk to a genetic counselor to understand the implications and informed choices
 
 To learn more, visit [Mapmygenome](https://mapmygenome.in).
 
