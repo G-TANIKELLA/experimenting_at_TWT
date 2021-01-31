@@ -1,4 +1,4 @@
-#Index
+# Index
 
 This is the _Index_ file
 
@@ -13,7 +13,7 @@ Today, there is just a link to [Google](www.google.com).
 
 _Random changes_
 
-##X
+## X
 
 What did you read today?
 
