@@ -15,6 +15,7 @@ EthnicGroup: South Indian Vysya
 
 {% for item in site.data.DataDemo %}
 The {{item.incarnation}} Avatar in the form of {{item.type}} was to {{item.purpose}}.
+{% endfor %}
 
 
 
