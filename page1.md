@@ -8,8 +8,8 @@ EthnicGroup: South Indian Vysya
 
 ---
 
-# Country: {{site.Country}}
-{{site.Country}} is home to {{site.Population}} people.
+# Country: {{site.country}}
+{{site.country}} is home to {{site.population}} people.
 
 # Avatars of Lord Vishnu
 
